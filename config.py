@@ -12,7 +12,7 @@ interval = float(0.1) ##second
 #otomatis refresh setelah mencapai target profit
 autorefresh = "ON"#ON/OFF || REFRESH SETIAP PROFIT TERPENUHI
 #otomatis withdraw setelah ifbalance
-autowithdraw = "ON"#ON/OFF
+autowithdraw = "OFF"#ON/OFF
 ifbalance = int(110)
-address = "D8nonR27Twya6ZaivX1uiErkc1c3m1yt3u"
-amount = 10
+address = "xxxxxxxxxxx"
+amount = 5100000000000000000
